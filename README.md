@@ -46,3 +46,13 @@ I built a machine learning model using **Python, Pandas, and XGBoost**, achievin
 - **Languages:** Python  
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, XGBoost  
 - **Environment:** Jupyter Notebook
+
+---
+
+## 📚 Key Takeaways
+- Feature engineering (lags & rolling averages) is crucial for forecasting.  
+- XGBoost performs well in handling **non-linear time series patterns**.  
+- Forecasting accuracy can directly support business strategy in **retail planning**.
+
+
+⭐ If you like this project, don’t forget to **star the repo** and support my work! 
